@@ -1,0 +1,2 @@
+# dicee
+simple javascript website
